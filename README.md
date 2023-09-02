@@ -1,4 +1,4 @@
-- 👋 Hi, I’m [Robert Mbau](https://www.linkedin.com/in/robertmbau/)
+- 👋 Hi, I’m ![Robert Mbau](https://www.linkedin.com/in/robertmbau/)
 - 🌱 I’m currently learning [Databases and SQL for Data Science with Python](https://www.coursera.org/learn/sql-data-science/home/welcome)
 - 📫 How to reach me [Email](robertmbau7@gmail.com), [Phone](+254798871271)
 
